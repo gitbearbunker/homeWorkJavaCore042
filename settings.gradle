@@ -1,0 +1,9 @@
+rootProject.name = 'homeWorkGardle'
+
+include 'db'
+include 'service'
+include 'api'
+include 'api'
+include 'service'
+include 'db'
+
